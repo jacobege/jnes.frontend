@@ -3,7 +3,7 @@ import './Developer.module.css';
 function Developer() {
   return (
     <div className="Developer">
-      Dev
+      Developer
     </div>
   );
 }
